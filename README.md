@@ -20,6 +20,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 3
+
+1. Palindrome Linked List  
+2. Rotate Array    
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
