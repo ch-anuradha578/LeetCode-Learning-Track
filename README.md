@@ -23,7 +23,16 @@ This repository documents my progress solving LeetCode problems using Java. Each
 ## Day 3
 
 1. Palindrome Linked List  
-2. Rotate Array    
+2. Rotate Array
+3. Subsets    
+
+---
+
+## Day 4
+
+1. Find First and Last Position of Element in Sorted Array      
+2. Minimum Operations to Make Array Values Equal to K
+3. Reverse Integer
 
 ---
 
