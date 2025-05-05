@@ -36,6 +36,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 5
+
+1. Remove Nth Node From End of List       
+2. Reverse Words in a String
+3. Search Insert Position
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
