@@ -44,6 +44,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 6
+
+1. Remove Stars From a String       
+2. Symmetric Tree
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
