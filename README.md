@@ -51,6 +51,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 7
+
+1. Binary Tree Preorder Traversal       
+2. Reorder List
+3. Validate Binary Search Tree
+
+---
 ## How to Compile and Run the Code
 
 ### Prerequisites:
