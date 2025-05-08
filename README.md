@@ -58,6 +58,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 3. Validate Binary Search Tree
 
 ---
+
+## Day 8
+
+1. Implement Stack using Queues       
+2. Lowest Common Ancestor of a Binary Search Tree
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
