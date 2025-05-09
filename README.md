@@ -66,6 +66,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 9
+
+1. Best Time to Buy and Sell Stock       
+2. Group Anagrams
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
