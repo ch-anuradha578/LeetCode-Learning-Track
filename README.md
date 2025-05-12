@@ -73,6 +73,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 10
+
+1. Pow(x, n)       
+2. Longest Repeating Character Replacement
+3. Max Number of K-Sum Pairs
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
