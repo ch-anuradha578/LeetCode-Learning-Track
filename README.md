@@ -81,6 +81,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 11
+
+1. Minimum Size Subarray Sum       
+2. Max Consecutive Ones III
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
