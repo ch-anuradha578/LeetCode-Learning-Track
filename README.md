@@ -88,6 +88,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 12
+
+1. Decode String       
+2. Letter Combinations of a Phone Number
+3. Minimum Distance Between BST Nodes
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:

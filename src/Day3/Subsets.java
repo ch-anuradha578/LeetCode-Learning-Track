@@ -1,6 +1,7 @@
 package Day3;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Subsets {
     public static List<List<Integer>> subsets(int[] nums) {
