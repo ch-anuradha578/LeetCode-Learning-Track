@@ -96,6 +96,13 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 13
+
+1. Koko Eating Bananas       
+2. Rotate List
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
