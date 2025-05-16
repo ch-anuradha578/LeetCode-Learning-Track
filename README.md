@@ -103,6 +103,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 14
+
+1. Find Peak Element      
+2. Kth Largest Element in an Array
+3. Leaf-Similar Trees
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
