@@ -111,6 +111,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 15
+
+1. Delete Node in a BST      
+2. Longest Subarray of 1's After Deleting One Element
+3. Number of Recent Calls
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
