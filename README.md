@@ -119,6 +119,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 16
+
+1. Container With Most Water      
+2. Median of Two Sorted Arrays
+3. Total Cost to Hire K Workers
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
