@@ -127,6 +127,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 17
+
+1. Happy Number      
+2. House Robber
+3. Number of 1 Bits
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
