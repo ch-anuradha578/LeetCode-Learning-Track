@@ -135,6 +135,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 18
+
+1. Find the Difference of Two Arrays      
+2. Keys and Rooms
+3. 3Sum
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
