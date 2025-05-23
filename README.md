@@ -143,6 +143,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 19
+
+1. Can Place Flowers      
+2. Determine if Two Strings Are Close
+3. Max Consecutive Ones
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
