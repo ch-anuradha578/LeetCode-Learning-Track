@@ -151,6 +151,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 20
+
+1. Best Time to Buy and Sell Stock III      
+2. Sort an Array
+3. Successful Pairs of Spells and Potions
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
