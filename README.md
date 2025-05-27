@@ -159,6 +159,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 21
+
+1. Equal Row and Column Pairs      
+2. Merge k Sorted Lists
+3. Odd Even Linked List
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
