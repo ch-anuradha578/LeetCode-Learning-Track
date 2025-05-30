@@ -167,6 +167,14 @@ This repository documents my progress solving LeetCode problems using Java. Each
 
 ---
 
+## Day 22
+
+1. Asteroid Collision      
+2. Daily Temperatures
+3. Reverse Nodes in k-Group
+
+---
+
 ## How to Compile and Run the Code
 
 ### Prerequisites:
